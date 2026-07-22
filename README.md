@@ -24,35 +24,36 @@ instructions for the app-based projects).
 
 ## Structure
 
+```
 ai-ml-assignments/
-├── README.md <- this file
+├── README.md                    <- this file
 ├── 1-adult-census-income/
-│ ├── adult.csv
-│ ├── adult_census_assignment.ipynb
-│ └── README.md
+│   ├── adult.csv
+│   ├── adult_census_assignment.ipynb
+│   └── README.md
 ├── 2-face-recognition/
-│ ├── face_recognition.ipynb
-│ └── README.md
+│   ├── face_recognition.ipynb
+│   └── README.md
 ├── 3-cifar10/
-│ ├── cifar10.ipynb
-│ └── README.md
+│   ├── cifar10.ipynb
+│   └── README.md
 ├── 4-cancer-detection/
-│ ├── cancer_detection.ipynb
-│ └── README.md
+│   ├── cancer_detection.ipynb
+│   └── README.md
 ├── 5-nlp-chatbot/
-│ └── ...
+│   └── ...
 ├── 6-lunarlander/
-│ └── ...
+│   └── ...
 ├── 7-cartpole/
-│ └── ...
+│   └── ...
 ├── 8-iris-classification/
-│ └── ...
+│   └── ...
 ├── 9-movie-recommendation/
-│ └── ...
+│   └── ...
 ├── 10-rag-capstone-project/
-│ └── README.md
+│   └── README.md
 └── .gitignore
-
+```
 
 Each project folder is self-contained with its own `requirements.txt` (or
 equivalent) and `README.md`, so every one is understandable and runnable
