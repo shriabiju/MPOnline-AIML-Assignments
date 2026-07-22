@@ -1,0 +1,6 @@
+gymnasium[classic-control]
+keras
+tensorflow
+scipy
+numpy
+moviepy

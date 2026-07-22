@@ -1,0 +1,22 @@
+# dataset (large, downloaded by train_model.py)
+sentiment140.csv
+sentiment140.zip
+testdata.manual.2009.06.14.csv
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# nltk data (downloaded automatically)
+nltk_data/
+
+# streamlit
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+.vscode/
+*.log
