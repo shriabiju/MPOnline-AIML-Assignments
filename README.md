@@ -11,7 +11,7 @@ self-contained subfolder with its own README.
 | 2 | [Face Recognition](./2-face-recognition) |
 | 3 | [CIFAR-10 Image Classification](./3-cifar10) |
 | 4 | [Cancer Detection](./4-cancer-detection) |
-| 5 | [NLP Chatbot](./5-nlp-chatbot) |
+| 5 | [NLP Chatbot (Deployed on Render](./5-nlp-chatbot) |
 | 6 | [LunarLander (Reinforcement Learning)](./6-lunarlander) |
 | 7 | [CartPole (Reinforcement Learning)](./7-cartpole) |
 | 8 | [Iris Classification](./8-iris-classification) |
